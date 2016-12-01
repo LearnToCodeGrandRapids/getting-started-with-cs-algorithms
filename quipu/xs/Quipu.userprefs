@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{21A491A4-B4C1-46F2-BE54-156426324C8B}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Quipu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quipu/Test.cs">
+    <Files>
+      <File FileName="Quipu/Test.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

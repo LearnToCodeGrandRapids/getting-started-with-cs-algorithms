@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D396C53D-C3D8-4021-AE9E-AAA9F23CF19E}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cut/Test.cs">
+    <Files>
+      <File FileName="Cut/Test.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cut PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
